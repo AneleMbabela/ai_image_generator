@@ -1,3 +1,5 @@
 # ai_image_generator
-![download](https://user-images.githubusercontent.com/8805744/225342349-38d0ed29-81b9-4658-afa6-2ec62fd59d6d.png)
 
+
+![0 (1)](https://user-images.githubusercontent.com/8805744/225348831-4a7bb49e-73f0-4ffd-8e48-a432733cb0a2.png)
+![0](https://user-images.githubusercontent.com/8805744/225348832-1ec594cd-7ba4-4bb8-a5ce-e037b7b47e28.png)
